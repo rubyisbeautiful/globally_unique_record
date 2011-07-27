@@ -1,0 +1,2 @@
+GUR_VERSION = "3.0.0"
+GUR_VERSION_STRING = "#{GUR_VERSION}  (beta)"
